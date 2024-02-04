@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=end
+comment0.text=\r\n\ Die\ Klasse\ "end"\ repr\u00E4sentiert\ eine\ Welt,\ die\ am\ Ende\ des\ Spiels\ erscheint.\r\n\ \r\n\ @Kamila\ Trinkenschuh\r\n\ @04.02.2024\r\n
+comment1.params=
+comment1.target=end()
+comment1.text=\r\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ "end".\r\n\ Hier\ wird\ eine\ neue\ Welt\ mit\ den\ angegebenen\ Dimensionen\ erstellt.\r\n\ Verschiedene\ Objekte\ der\ Klassen\ fd,\ circ,\ up,\ down\ werden\ in\ die\ Welt\ eingef\u00FCgt.\r\n\ Hintergrundmusik\ wird\ gestartet.\r\n
+numComments=2

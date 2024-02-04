@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=IcT
+comment0.text=\r\n\ Die\ Klasse\ "IcT"\ repr\u00E4sentiert\ einen\ Schauspieler\ (Actor)\ f\u00FCr\ die\ Anzeige\ von\ Text\ mit\ einer\ Animation.\r\n\ \r\n\ @author\ (Dein\ Name)\r\n\ @version\ (eine\ Versionsnummer\ oder\ ein\ Datum)\r\n
+comment1.params=text
+comment1.target=IcT(java.lang.String)
+comment1.text=\r\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ "IcT".\r\n\ Hier\ wird\ der\ Text\ initialisiert\ und\ das\ Bild\ f\u00FCr\ den\ Text\ erstellt.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act-Methode\ wird\ automatisch\ aufgerufen.\r\n\ Hier\ wird\ der\ Text\ animiert\ angezeigt,\ indem\ schrittweise\ Zeichen\ hinzugef\u00FCgt\ werden.\r\n
+comment3.params=
+comment3.target=void\ updateImage()
+comment3.text=\r\n\ Private\ Methode\ zur\ Aktualisierung\ des\ Bildes\ mit\ dem\ aktuellen\ Text.\r\n
+numComments=4

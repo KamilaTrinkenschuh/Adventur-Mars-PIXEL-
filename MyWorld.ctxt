@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=MyWorld
+comment0.text=\r\n\ Die\ erste\ World-Klasse;\ in\ meinem\ Fall\ ein\ Screen,\ wo\ man\ erst\ einmal\ eine\ grobe\ Vorstellung\ vom\ Spiel\ bekommt.\ \r\n\ Man\ kann\ auf\ einen\ Button\ klicken\ und\ das\ Spiel\ somit\ starten.\r\n\ Kamila\ Trinkenschuh\r\n\ @04.02.2024\r\n
+comment1.params=
+comment1.target=MyWorld()
+comment1.text=\r\n\ Konstruktor\:\ Initialisiert\ die\ Welt.\r\n\ Setzt\ die\ Welt\ auf\ 1400*700\ Pixel,\ f\u00FCgt\ ein\ Objekt\ der\ Klasse\ backfirst\ hinzu.\r\n\ Setzt\ ein\ Hintergrundbild\ und\ startet\ das\ Spiel\ automatisch\ mit\ Hintergrundmusik.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act-Methode\ wird\ automatisch\ aufgerufen.\r\n\ Hier\ wird\ der\ Timer\ erh\u00F6ht,\ und\ wenn\ timer\ \=\=\ spawnTime,\ werden\ ein\ Startbutton\ und\ eine\ Zeichenfolge\ in\ die\ Welt\ gesetzt.\r\n
+comment3.params=
+comment3.target=void\ stopMusic()
+comment3.text=\r\n\ Stoppt\ die\ Hintergrundmusik,\ wenn\ die\ Methode\ aufgerufen\ wird.\r\n
+numComments=4

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=backfirst
+comment0.text=\r\n\ Die\ Klasse\ "backfirst"\ repr\u00E4sentiert\ einen\ Hintergrund,\ der\ \u00FCber\ die\ Zeit\ verblassen\ kann.\r\n\ Diese\ Klasse\ habe\ ich\ aus\ dem\ Internet,\ also\ author\ \!\=Kamila\ Trinkenschuh\ \:)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act-Methode\ wird\ automatisch\ aufgerufen.\r\n\ Hier\ wird\ das\ Bild\ des\ Akteurs\ skaliert\ und\ \u00FCber\ die\ Zeit\ verblassen\ gelassen.\r\n
+comment2.params=
+comment2.target=void\ fadeOverTime()
+comment2.text=\r\n\ Private\ Methode,\ um\ das\ Bild\ \u00FCber\ die\ Zeit\ zu\ verblassen.\r\n
+numComments=3

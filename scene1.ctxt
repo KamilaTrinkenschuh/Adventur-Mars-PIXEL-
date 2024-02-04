@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=scene1
+comment0.text=\r\n\ Die\ Klasse\ "scene1"\ repr\u00E4sentiert\ eine\ Welt,\ die\ eine\ Erz\u00E4hlung\ von\ Elon\ Musk\ enth\u00E4lt\ und\ dann\ zu\ einer\ anderen\ Welt\ (maze)\ wechselt.\r\n\ \r\n\ @author\ (Dein\ Name)\r\n\ @version\ (eine\ Versionsnummer\ oder\ ein\ Datum)\r\n
+comment1.params=
+comment1.target=scene1()
+comment1.text=\r\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ "scene1".\r\n\ Hier\ wird\ eine\ neue\ Welt\ mit\ den\ angegebenen\ Dimensionen\ erstellt,\ ein\ Hintergrundbild\ gesetzt,\ ein\ Charakter\ hinzugef\u00FCgt\ und\ Hintergrundmusik\ abgespielt.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act-Methode\ wird\ automatisch\ aufgerufen.\r\n\ Hier\ wird\ der\ Z\u00E4hler\ timer\ erh\u00F6ht,\ und\ je\ nach\ dessen\ Wert\ werden\ verschiedene\ Textnachrichten\ eingeblendet\ und\ entfernt,\ bis\ schlie\u00DFlich\ zu\ einer\ anderen\ Welt\ (maze)\ gewechselt\ wird.\r\n
+numComments=3

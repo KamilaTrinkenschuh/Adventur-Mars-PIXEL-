@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=maze
+comment0.text=\r\n\ Die\ Klasse\ "maze"\ repr\u00E4sentiert\ eine\ Welt\ f\u00FCr\ ein\ Spiel\ mit\ einem\ Countdown\ und\ einem\ Raketenstart.\r\n\ \r\n\ @author\ (Dein\ Name)\r\n\ @version\ (eine\ Versionsnummer\ oder\ ein\ Datum)\r\n
+comment1.params=
+comment1.target=maze()
+comment1.text=\r\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ "maze".\r\n\ Hier\ wird\ eine\ neue\ Welt\ mit\ den\ angegebenen\ Dimensionen\ erstellt.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act-Methode\ wird\ automatisch\ aufgerufen.\r\n\ Hier\ wird\ der\ Z\u00E4hler\ timer\ erh\u00F6ht,\ und\ je\ nach\ dessen\ Wert\ werden\ verschiedene\ Aktionen\ ausgef\u00FChrt,\ wie\ das\ Anzeigen\ eines\ Countdowns\ und\ das\ Starten\ einer\ Rakete.\r\n
+numComments=3

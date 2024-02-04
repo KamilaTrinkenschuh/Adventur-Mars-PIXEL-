@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=endgame
+comment0.text=\r\n\ Die\ Klasse\ "endgame"\ repr\u00E4sentiert\ eine\ Welt,\ die\ am\ Ende\ des\ Spiels\ erscheint.\r\n\ \r\n\ @Kamila\ Trinkenschuh\r\n\ @04.02.2024\r\n
+comment1.params=
+comment1.target=endgame()
+comment1.text=\r\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ "endgame".\r\n\ Hier\ wird\ eine\ neue\ Welt\ mit\ den\ angegebenen\ Dimensionen\ erstellt.\r\n\ Verschiedene\ Objekte\ der\ Klassen\ walkastro,\ obt\ und\ text1\ werden\ in\ die\ Welt\ eingef\u00FCgt.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act-Methode\ wird\ automatisch\ aufgerufen.\r\n\ Hier\ wird\ der\ Z\u00E4hler\ g\ erh\u00F6ht,\ und\ wenn\ g\ den\ Wert\ g1\ erreicht,\ wird\ das\ Textobjekt\ aus\ der\ Welt\ entfernt.\r\n
+numComments=3

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=IconicText
+comment1.params=text
+comment1.target=IconicText(java.lang.String)
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Diese\ Klasse\ habe\ ich\ erzeugt,\ um\ das\ typische,\ oft\ verwendete\ Wiedergeben\ von\ einer\ Zeichenfolge\ auch\ in\ meinem\ Spiel\ m\u00F6glich\ zu\ machen.\ \r\n\ Die\ Stringfolge\ text,\ welche\ man\ auf\ dem\ Bildschrim\ ausgeben\ lassen\ will,\ wird\ erst\ einmal\ in\ updateImage()\ initialisiert\ mit\ Farbe,\ Font,\ Gr\u00F6\u00DFe,\ Positioin...\r\n\ In\ act(),\ wenn\ charIndex\ \=\=\ text.length(),\ dann\ ist\ das\ Wort\ fertig\ geschrieben,\ ansonsten\ wird\ das\ Wort\ Zeichen\ f\u00FCr\ Zeichen\ aufgeschreiben,\ bis\ nicht\ fertig\r\n\ IcT\ ist\ gleich,\ nur\ habe\ ich\ dort\ die\ Farbe\ und\ Gr\u00F6\u00DFe\ f\u00FCr\ eine\ andere\ Scene\ ge\u00E4ndert\r\n
+comment3.params=
+comment3.target=void\ updateImage()
+numComments=4
